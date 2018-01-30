@@ -1,0 +1,7 @@
+c:\users\qwkou\source\repos\SteakQueue\Brackets\bin\Debug\Brackets.exe.config
+c:\users\qwkou\source\repos\SteakQueue\Brackets\bin\Debug\Brackets.exe
+c:\users\qwkou\source\repos\SteakQueue\Brackets\bin\Debug\Brackets.pdb
+c:\users\qwkou\source\repos\SteakQueue\Brackets\obj\Debug\Brackets.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\SteakQueue\Brackets\obj\Debug\Brackets.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\SteakQueue\Brackets\obj\Debug\Brackets.exe
+c:\users\qwkou\source\repos\SteakQueue\Brackets\obj\Debug\Brackets.pdb

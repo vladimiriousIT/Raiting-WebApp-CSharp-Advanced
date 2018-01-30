@@ -1,0 +1,7 @@
+c:\users\qwkou\source\repos\SteakQueue\SteakQueue\bin\Debug\SteakQueue.exe.config
+c:\users\qwkou\source\repos\SteakQueue\SteakQueue\bin\Debug\SteakQueue.exe
+c:\users\qwkou\source\repos\SteakQueue\SteakQueue\bin\Debug\SteakQueue.pdb
+c:\users\qwkou\source\repos\SteakQueue\SteakQueue\obj\Debug\SteakQueue.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\SteakQueue\SteakQueue\obj\Debug\SteakQueue.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\SteakQueue\SteakQueue\obj\Debug\SteakQueue.exe
+c:\users\qwkou\source\repos\SteakQueue\SteakQueue\obj\Debug\SteakQueue.pdb

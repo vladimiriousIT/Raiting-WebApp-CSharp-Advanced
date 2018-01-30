@@ -1,0 +1,7 @@
+c:\users\qwkou\source\repos\SteakQueue\Decimal\bin\Debug\Decimal.exe.config
+c:\users\qwkou\source\repos\SteakQueue\Decimal\bin\Debug\Decimal.exe
+c:\users\qwkou\source\repos\SteakQueue\Decimal\bin\Debug\Decimal.pdb
+c:\users\qwkou\source\repos\SteakQueue\Decimal\obj\Debug\Decimal.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\SteakQueue\Decimal\obj\Debug\Decimal.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\SteakQueue\Decimal\obj\Debug\Decimal.exe
+c:\users\qwkou\source\repos\SteakQueue\Decimal\obj\Debug\Decimal.pdb

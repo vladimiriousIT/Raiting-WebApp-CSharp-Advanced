@@ -1,0 +1,7 @@
+c:\users\qwkou\source\repos\SteakQueue\HotPotato\bin\Debug\HotPotato.exe.config
+c:\users\qwkou\source\repos\SteakQueue\HotPotato\bin\Debug\HotPotato.exe
+c:\users\qwkou\source\repos\SteakQueue\HotPotato\bin\Debug\HotPotato.pdb
+c:\users\qwkou\source\repos\SteakQueue\HotPotato\obj\Debug\HotPotato.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\SteakQueue\HotPotato\obj\Debug\HotPotato.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\SteakQueue\HotPotato\obj\Debug\HotPotato.exe
+c:\users\qwkou\source\repos\SteakQueue\HotPotato\obj\Debug\HotPotato.pdb

@@ -1,0 +1,7 @@
+c:\users\qwkou\source\repos\SteakQueue\CarsQueue\bin\Debug\CarsQueue.exe.config
+c:\users\qwkou\source\repos\SteakQueue\CarsQueue\bin\Debug\CarsQueue.exe
+c:\users\qwkou\source\repos\SteakQueue\CarsQueue\bin\Debug\CarsQueue.pdb
+c:\users\qwkou\source\repos\SteakQueue\CarsQueue\obj\Debug\CarsQueue.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\SteakQueue\CarsQueue\obj\Debug\CarsQueue.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\SteakQueue\CarsQueue\obj\Debug\CarsQueue.exe
+c:\users\qwkou\source\repos\SteakQueue\CarsQueue\obj\Debug\CarsQueue.pdb

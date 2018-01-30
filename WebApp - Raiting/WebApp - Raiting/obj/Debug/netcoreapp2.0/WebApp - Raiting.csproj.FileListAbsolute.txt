@@ -1,0 +1,11 @@
+c:\users\qwkou\source\repos\WebApp - Raiting\WebApp - Raiting\bin\Debug\netcoreapp2.0\WebApp - Raiting.deps.json
+c:\users\qwkou\source\repos\WebApp - Raiting\WebApp - Raiting\bin\Debug\netcoreapp2.0\WebApp - Raiting.runtimeconfig.json
+c:\users\qwkou\source\repos\WebApp - Raiting\WebApp - Raiting\bin\Debug\netcoreapp2.0\WebApp - Raiting.runtimeconfig.dev.json
+c:\users\qwkou\source\repos\WebApp - Raiting\WebApp - Raiting\bin\Debug\netcoreapp2.0\WebApp - Raiting.dll
+c:\users\qwkou\source\repos\WebApp - Raiting\WebApp - Raiting\bin\Debug\netcoreapp2.0\WebApp - Raiting.pdb
+c:\users\qwkou\source\repos\WebApp - Raiting\WebApp - Raiting\obj\Debug\netcoreapp2.0\WebApp - Raiting.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\WebApp - Raiting\WebApp - Raiting\obj\Debug\netcoreapp2.0\WebApp - Raiting.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\WebApp - Raiting\WebApp - Raiting\obj\Debug\netcoreapp2.0\WebApp - Raiting.AssemblyInfoInputs.cache
+c:\users\qwkou\source\repos\WebApp - Raiting\WebApp - Raiting\obj\Debug\netcoreapp2.0\WebApp - Raiting.AssemblyInfo.cs
+c:\users\qwkou\source\repos\WebApp - Raiting\WebApp - Raiting\obj\Debug\netcoreapp2.0\WebApp - Raiting.dll
+c:\users\qwkou\source\repos\WebApp - Raiting\WebApp - Raiting\obj\Debug\netcoreapp2.0\WebApp - Raiting.pdb

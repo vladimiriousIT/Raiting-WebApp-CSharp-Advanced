@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Game Play";
+}
+
+<h1>Game Play</h1>
+@if (!ViewBag.gameOver)
+{
+<form action="/Home/FireTop">
+    TOP: <input type="range" name="position" min="0" max="100"  />
+    <input type="submit" value="Fire Top" />
+</form>
+
+<form action="/Home/FireBottom">
+    Bottom: <input type="range" name="position" min="0" max="100" />
+    <input type="submit" value="Fire Bottom" />
+</form>
+
+<form action="/Home/Reset">
+    <input type="submit" value="New Game" />
+</form>
+}
+
+<h2>Battle Field</h2>
+@for (var row = 0; row < ViewBag.rowsCount; row++)
+{
+    for (int col = 0; col < ViewBag.colsCount; col++)
+    {
+        <img src="~/images/apple.png"/>
+        <img src="~/images/banana.png" />
+        <img src="~/images/kiwi.png" />
+        <img src="~/images/orange.png" />
+        <img src="~/images/dynamite.png" />
+        <img src="~/images/empty.png" />
+        <img src="~/images/explosion.png" />
+       // <img src="~/images/@(ViewBag.fruits[row, col]).png" />
+    }
+    <br />
+}
+<h2> Score: <b>@ViewBag.score</b></h2>

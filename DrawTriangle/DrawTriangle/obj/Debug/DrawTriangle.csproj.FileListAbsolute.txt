@@ -1,0 +1,7 @@
+c:\users\qwkou\source\repos\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.exe.config
+c:\users\qwkou\source\repos\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.exe
+c:\users\qwkou\source\repos\DrawTriangle\DrawTriangle\bin\Debug\DrawTriangle.pdb
+c:\users\qwkou\source\repos\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.exe
+c:\users\qwkou\source\repos\DrawTriangle\DrawTriangle\obj\Debug\DrawTriangle.pdb

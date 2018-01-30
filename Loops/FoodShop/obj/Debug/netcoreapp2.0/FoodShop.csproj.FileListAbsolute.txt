@@ -1,0 +1,11 @@
+c:\users\qwkou\source\repos\Loops\FoodShop\obj\Debug\netcoreapp2.0\FoodShop.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\Loops\FoodShop\obj\Debug\netcoreapp2.0\FoodShop.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\Loops\FoodShop\obj\Debug\netcoreapp2.0\FoodShop.AssemblyInfoInputs.cache
+c:\users\qwkou\source\repos\Loops\FoodShop\obj\Debug\netcoreapp2.0\FoodShop.AssemblyInfo.cs
+c:\users\qwkou\source\repos\Loops\FoodShop\bin\Debug\netcoreapp2.0\FoodShop.deps.json
+c:\users\qwkou\source\repos\Loops\FoodShop\bin\Debug\netcoreapp2.0\FoodShop.runtimeconfig.json
+c:\users\qwkou\source\repos\Loops\FoodShop\bin\Debug\netcoreapp2.0\FoodShop.runtimeconfig.dev.json
+c:\users\qwkou\source\repos\Loops\FoodShop\bin\Debug\netcoreapp2.0\FoodShop.dll
+c:\users\qwkou\source\repos\Loops\FoodShop\bin\Debug\netcoreapp2.0\FoodShop.pdb
+c:\users\qwkou\source\repos\Loops\FoodShop\obj\Debug\netcoreapp2.0\FoodShop.dll
+c:\users\qwkou\source\repos\Loops\FoodShop\obj\Debug\netcoreapp2.0\FoodShop.pdb

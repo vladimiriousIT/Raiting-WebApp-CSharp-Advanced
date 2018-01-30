@@ -1,0 +1,10 @@
+c:\users\qwkou\source\repos\Loops\SumReadedNumbers\obj\Debug\netcoreapp2.0\SumReadedNumbers.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\Loops\SumReadedNumbers\obj\Debug\netcoreapp2.0\SumReadedNumbers.AssemblyInfoInputs.cache
+c:\users\qwkou\source\repos\Loops\SumReadedNumbers\obj\Debug\netcoreapp2.0\SumReadedNumbers.AssemblyInfo.cs
+c:\users\qwkou\source\repos\Loops\SumReadedNumbers\bin\Debug\netcoreapp2.0\SumReadedNumbers.deps.json
+c:\users\qwkou\source\repos\Loops\SumReadedNumbers\bin\Debug\netcoreapp2.0\SumReadedNumbers.runtimeconfig.json
+c:\users\qwkou\source\repos\Loops\SumReadedNumbers\bin\Debug\netcoreapp2.0\SumReadedNumbers.runtimeconfig.dev.json
+c:\users\qwkou\source\repos\Loops\SumReadedNumbers\bin\Debug\netcoreapp2.0\SumReadedNumbers.dll
+c:\users\qwkou\source\repos\Loops\SumReadedNumbers\bin\Debug\netcoreapp2.0\SumReadedNumbers.pdb
+c:\users\qwkou\source\repos\Loops\SumReadedNumbers\obj\Debug\netcoreapp2.0\SumReadedNumbers.dll
+c:\users\qwkou\source\repos\Loops\SumReadedNumbers\obj\Debug\netcoreapp2.0\SumReadedNumbers.pdb

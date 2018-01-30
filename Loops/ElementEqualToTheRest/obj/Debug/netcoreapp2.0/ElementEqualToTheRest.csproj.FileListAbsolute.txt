@@ -1,0 +1,11 @@
+c:\users\qwkou\source\repos\Loops\ElementEqualToTheRest\bin\Debug\netcoreapp2.0\ElementEqualToTheRest.deps.json
+c:\users\qwkou\source\repos\Loops\ElementEqualToTheRest\bin\Debug\netcoreapp2.0\ElementEqualToTheRest.runtimeconfig.json
+c:\users\qwkou\source\repos\Loops\ElementEqualToTheRest\bin\Debug\netcoreapp2.0\ElementEqualToTheRest.runtimeconfig.dev.json
+c:\users\qwkou\source\repos\Loops\ElementEqualToTheRest\bin\Debug\netcoreapp2.0\ElementEqualToTheRest.dll
+c:\users\qwkou\source\repos\Loops\ElementEqualToTheRest\bin\Debug\netcoreapp2.0\ElementEqualToTheRest.pdb
+c:\users\qwkou\source\repos\Loops\ElementEqualToTheRest\obj\Debug\netcoreapp2.0\ElementEqualToTheRest.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\Loops\ElementEqualToTheRest\obj\Debug\netcoreapp2.0\ElementEqualToTheRest.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\Loops\ElementEqualToTheRest\obj\Debug\netcoreapp2.0\ElementEqualToTheRest.AssemblyInfoInputs.cache
+c:\users\qwkou\source\repos\Loops\ElementEqualToTheRest\obj\Debug\netcoreapp2.0\ElementEqualToTheRest.AssemblyInfo.cs
+c:\users\qwkou\source\repos\Loops\ElementEqualToTheRest\obj\Debug\netcoreapp2.0\ElementEqualToTheRest.dll
+c:\users\qwkou\source\repos\Loops\ElementEqualToTheRest\obj\Debug\netcoreapp2.0\ElementEqualToTheRest.pdb

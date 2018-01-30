@@ -1,0 +1,11 @@
+c:\users\qwkou\source\repos\Loops\GlasniinText\bin\Debug\netcoreapp2.0\GlasniinText.deps.json
+c:\users\qwkou\source\repos\Loops\GlasniinText\bin\Debug\netcoreapp2.0\GlasniinText.runtimeconfig.json
+c:\users\qwkou\source\repos\Loops\GlasniinText\bin\Debug\netcoreapp2.0\GlasniinText.runtimeconfig.dev.json
+c:\users\qwkou\source\repos\Loops\GlasniinText\bin\Debug\netcoreapp2.0\GlasniinText.dll
+c:\users\qwkou\source\repos\Loops\GlasniinText\bin\Debug\netcoreapp2.0\GlasniinText.pdb
+c:\users\qwkou\source\repos\Loops\GlasniinText\obj\Debug\netcoreapp2.0\GlasniinText.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\Loops\GlasniinText\obj\Debug\netcoreapp2.0\GlasniinText.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\Loops\GlasniinText\obj\Debug\netcoreapp2.0\GlasniinText.AssemblyInfoInputs.cache
+c:\users\qwkou\source\repos\Loops\GlasniinText\obj\Debug\netcoreapp2.0\GlasniinText.AssemblyInfo.cs
+c:\users\qwkou\source\repos\Loops\GlasniinText\obj\Debug\netcoreapp2.0\GlasniinText.dll
+c:\users\qwkou\source\repos\Loops\GlasniinText\obj\Debug\netcoreapp2.0\GlasniinText.pdb

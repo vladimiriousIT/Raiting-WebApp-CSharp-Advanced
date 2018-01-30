@@ -1,0 +1,11 @@
+c:\users\qwkou\source\repos\Loops\ConsoleApp1\bin\Debug\netcoreapp2.0\OneToOneHundred.deps.json
+c:\users\qwkou\source\repos\Loops\ConsoleApp1\bin\Debug\netcoreapp2.0\OneToOneHundred.runtimeconfig.json
+c:\users\qwkou\source\repos\Loops\ConsoleApp1\bin\Debug\netcoreapp2.0\OneToOneHundred.runtimeconfig.dev.json
+c:\users\qwkou\source\repos\Loops\ConsoleApp1\bin\Debug\netcoreapp2.0\OneToOneHundred.dll
+c:\users\qwkou\source\repos\Loops\ConsoleApp1\bin\Debug\netcoreapp2.0\OneToOneHundred.pdb
+c:\users\qwkou\source\repos\Loops\ConsoleApp1\obj\Debug\netcoreapp2.0\OneToOneHundred.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\Loops\ConsoleApp1\obj\Debug\netcoreapp2.0\OneToOneHundred.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\Loops\ConsoleApp1\obj\Debug\netcoreapp2.0\OneToOneHundred.AssemblyInfoInputs.cache
+c:\users\qwkou\source\repos\Loops\ConsoleApp1\obj\Debug\netcoreapp2.0\OneToOneHundred.AssemblyInfo.cs
+c:\users\qwkou\source\repos\Loops\ConsoleApp1\obj\Debug\netcoreapp2.0\OneToOneHundred.dll
+c:\users\qwkou\source\repos\Loops\ConsoleApp1\obj\Debug\netcoreapp2.0\OneToOneHundred.pdb

@@ -1,0 +1,11 @@
+c:\users\qwkou\source\repos\Loops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\Loops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\Loops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.AssemblyInfoInputs.cache
+c:\users\qwkou\source\repos\Loops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.AssemblyInfo.cs
+c:\users\qwkou\source\repos\Loops\SquareFrame\bin\Debug\netcoreapp2.0\SquareFrame.deps.json
+c:\users\qwkou\source\repos\Loops\SquareFrame\bin\Debug\netcoreapp2.0\SquareFrame.runtimeconfig.json
+c:\users\qwkou\source\repos\Loops\SquareFrame\bin\Debug\netcoreapp2.0\SquareFrame.runtimeconfig.dev.json
+c:\users\qwkou\source\repos\Loops\SquareFrame\bin\Debug\netcoreapp2.0\SquareFrame.dll
+c:\users\qwkou\source\repos\Loops\SquareFrame\bin\Debug\netcoreapp2.0\SquareFrame.pdb
+c:\users\qwkou\source\repos\Loops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.dll
+c:\users\qwkou\source\repos\Loops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.pdb

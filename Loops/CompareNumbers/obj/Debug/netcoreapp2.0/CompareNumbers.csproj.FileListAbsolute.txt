@@ -1,0 +1,11 @@
+c:\users\qwkou\source\repos\Loops\CompareNumbers\bin\Debug\netcoreapp2.0\CompareNumbers.deps.json
+c:\users\qwkou\source\repos\Loops\CompareNumbers\bin\Debug\netcoreapp2.0\CompareNumbers.runtimeconfig.json
+c:\users\qwkou\source\repos\Loops\CompareNumbers\bin\Debug\netcoreapp2.0\CompareNumbers.runtimeconfig.dev.json
+c:\users\qwkou\source\repos\Loops\CompareNumbers\bin\Debug\netcoreapp2.0\CompareNumbers.dll
+c:\users\qwkou\source\repos\Loops\CompareNumbers\bin\Debug\netcoreapp2.0\CompareNumbers.pdb
+c:\users\qwkou\source\repos\Loops\CompareNumbers\obj\Debug\netcoreapp2.0\CompareNumbers.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\Loops\CompareNumbers\obj\Debug\netcoreapp2.0\CompareNumbers.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\Loops\CompareNumbers\obj\Debug\netcoreapp2.0\CompareNumbers.AssemblyInfoInputs.cache
+c:\users\qwkou\source\repos\Loops\CompareNumbers\obj\Debug\netcoreapp2.0\CompareNumbers.AssemblyInfo.cs
+c:\users\qwkou\source\repos\Loops\CompareNumbers\obj\Debug\netcoreapp2.0\CompareNumbers.dll
+c:\users\qwkou\source\repos\Loops\CompareNumbers\obj\Debug\netcoreapp2.0\CompareNumbers.pdb

@@ -1,0 +1,11 @@
+c:\users\qwkou\source\repos\Loops\NestedLoopSquare\bin\Debug\netcoreapp2.0\NestedLoopSquare.deps.json
+c:\users\qwkou\source\repos\Loops\NestedLoopSquare\bin\Debug\netcoreapp2.0\NestedLoopSquare.runtimeconfig.json
+c:\users\qwkou\source\repos\Loops\NestedLoopSquare\bin\Debug\netcoreapp2.0\NestedLoopSquare.runtimeconfig.dev.json
+c:\users\qwkou\source\repos\Loops\NestedLoopSquare\bin\Debug\netcoreapp2.0\NestedLoopSquare.dll
+c:\users\qwkou\source\repos\Loops\NestedLoopSquare\bin\Debug\netcoreapp2.0\NestedLoopSquare.pdb
+c:\users\qwkou\source\repos\Loops\NestedLoopSquare\obj\Debug\netcoreapp2.0\NestedLoopSquare.csprojResolveAssemblyReference.cache
+c:\users\qwkou\source\repos\Loops\NestedLoopSquare\obj\Debug\netcoreapp2.0\NestedLoopSquare.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\Loops\NestedLoopSquare\obj\Debug\netcoreapp2.0\NestedLoopSquare.AssemblyInfoInputs.cache
+c:\users\qwkou\source\repos\Loops\NestedLoopSquare\obj\Debug\netcoreapp2.0\NestedLoopSquare.AssemblyInfo.cs
+c:\users\qwkou\source\repos\Loops\NestedLoopSquare\obj\Debug\netcoreapp2.0\NestedLoopSquare.dll
+c:\users\qwkou\source\repos\Loops\NestedLoopSquare\obj\Debug\netcoreapp2.0\NestedLoopSquare.pdb

@@ -1,0 +1,11 @@
+c:\users\qwkou\source\repos\Loops\LeftRightNumbers\bin\Debug\netcoreapp2.0\LeftRightNumbers.deps.json
+c:\users\qwkou\source\repos\Loops\LeftRightNumbers\bin\Debug\netcoreapp2.0\LeftRightNumbers.runtimeconfig.json
+c:\users\qwkou\source\repos\Loops\LeftRightNumbers\bin\Debug\netcoreapp2.0\LeftRightNumbers.runtimeconfig.dev.json
+c:\users\qwkou\source\repos\Loops\LeftRightNumbers\bin\Debug\netcoreapp2.0\LeftRightNumbers.dll
+c:\users\qwkou\source\repos\Loops\LeftRightNumbers\bin\Debug\netcoreapp2.0\LeftRightNumbers.pdb
+c:\users\qwkou\source\repos\Loops\LeftRightNumbers\obj\Debug\netcoreapp2.0\LeftRightNumbers.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\Loops\LeftRightNumbers\obj\Debug\netcoreapp2.0\LeftRightNumbers.AssemblyInfoInputs.cache
+c:\users\qwkou\source\repos\Loops\LeftRightNumbers\obj\Debug\netcoreapp2.0\LeftRightNumbers.AssemblyInfo.cs
+c:\users\qwkou\source\repos\Loops\LeftRightNumbers\obj\Debug\netcoreapp2.0\LeftRightNumbers.dll
+c:\users\qwkou\source\repos\Loops\LeftRightNumbers\obj\Debug\netcoreapp2.0\LeftRightNumbers.pdb
+c:\users\qwkou\source\repos\Loops\LeftRightNumbers\obj\Debug\netcoreapp2.0\LeftRightNumbers.csprojResolveAssemblyReference.cache

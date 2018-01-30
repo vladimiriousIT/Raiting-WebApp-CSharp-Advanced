@@ -1,0 +1,10 @@
+c:\users\qwkou\source\repos\Loops\ASCIISymbols\bin\Debug\netcoreapp2.0\ASCIISymbols.deps.json
+c:\users\qwkou\source\repos\Loops\ASCIISymbols\bin\Debug\netcoreapp2.0\ASCIISymbols.runtimeconfig.json
+c:\users\qwkou\source\repos\Loops\ASCIISymbols\bin\Debug\netcoreapp2.0\ASCIISymbols.runtimeconfig.dev.json
+c:\users\qwkou\source\repos\Loops\ASCIISymbols\bin\Debug\netcoreapp2.0\ASCIISymbols.dll
+c:\users\qwkou\source\repos\Loops\ASCIISymbols\bin\Debug\netcoreapp2.0\ASCIISymbols.pdb
+c:\users\qwkou\source\repos\Loops\ASCIISymbols\obj\Debug\netcoreapp2.0\ASCIISymbols.csproj.CoreCompileInputs.cache
+c:\users\qwkou\source\repos\Loops\ASCIISymbols\obj\Debug\netcoreapp2.0\ASCIISymbols.AssemblyInfoInputs.cache
+c:\users\qwkou\source\repos\Loops\ASCIISymbols\obj\Debug\netcoreapp2.0\ASCIISymbols.AssemblyInfo.cs
+c:\users\qwkou\source\repos\Loops\ASCIISymbols\obj\Debug\netcoreapp2.0\ASCIISymbols.dll
+c:\users\qwkou\source\repos\Loops\ASCIISymbols\obj\Debug\netcoreapp2.0\ASCIISymbols.pdb

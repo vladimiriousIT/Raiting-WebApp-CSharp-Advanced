@@ -2,6 +2,5 @@
 # C# Raiting WebApp
 # C# Advanced 
 
-
-SoftUni Courses & Exercises with C#
+Courses & Exercises with C#
 

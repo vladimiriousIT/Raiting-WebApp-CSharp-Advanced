@@ -1,7 +1,7 @@
 # C# Development 
-# Raiting WebApp
+# C# Raiting WebApp
 # C# Advanced 
 
 
-SoftUniCourses with C#
+SoftUni Courses & Exercises with C#
 
